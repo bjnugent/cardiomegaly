@@ -1,0 +1,7 @@
+,1
+model_name,AlexNet
+final_accuracy,0.777477502822876
+final_precision,0.7984496355056763
+final_recall,0.7423423528671265
+learning_rate,1e-05
+batch_size,15
